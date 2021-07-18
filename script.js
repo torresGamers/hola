@@ -1,10 +1,10 @@
-const numero = document.querySelector('.numero');
-let num = 0;
-numero.addEventListener('keyup',()=>{
-  num=numero.value;
-  console.log(num)
-  return generador()
-})
+// const numero = document.querySelector('.numero');
+let num = 90181054;
+// numero.addEventListener('keyup',()=>{
+//   num=numero.value;
+//   console.log(num)
+//   return generador()
+// })
 const mensaje = document.querySelector('.mensaje');
 let men = 0;
 mensaje.addEventListener('keyup',()=>{
